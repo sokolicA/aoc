@@ -1,0 +1,97 @@
+# R Files
+.Rhistory
+.RData
+.Rapp.history
+*.Rds
+*.rds
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+static/
+
+# HTML/CSS/JavaScript
+node_modules/
+.npm
+npm-debug.log*
+*.map
+*.min.css
+*.min.js
+*.html  
+
+# Web Frameworks Temp Files
+*.pid
+*.seed
+
+# Office Files
+~$*.doc*
+~$*.xls*
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.accdb
+*.laccdb
+*.mdb
+*.accde
+*.mde
+*.doc*
+
+# Other document files
+*.pdf
+
+# SQL
+*.mdf
+*.ldf
+*.ndf
+
+# C++ Compiled Files
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.lib
+
+# Development Environment
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Backup Files
+*.bak
+*.backup
+*.tmp
+
+# Logs and Databases
+*.log
+*.sqlite
+
+# Sensitive Information
+.env
+*.env
+.secret
